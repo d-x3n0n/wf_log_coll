@@ -1,0 +1,8 @@
+NODE_ENV=development
+HTTP_PORT=3000
+SYSLOG_UDP_PORT=514
+SYSLOG_BATCH_SIZE=100
+SQLITE_DB_PATH=./data/syslog.db
+LOG_LEVEL=info
+CORS_ORIGIN=*
+API_KEY=your-secure-api-key-here
